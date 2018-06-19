@@ -1,6 +1,6 @@
 ## Приветствуем
 ### А что это?
-Попытка сделать аналог http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction для продакт-менеджеров.
+Попытка сделать [аналогичный этому ресурс](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-introduction) для продакт-менеджеров.
 
 Методичка по мотивам курса "Менеджер по digital-продукту", которой нам самим не хватает в процессе освоения профессии.
 
